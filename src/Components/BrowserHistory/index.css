@@ -1,0 +1,17 @@
+li {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.list-container-title{
+  margin-left:10px;
+  display: flex;
+  justify-content: flex-start;
+}
+.list-container-url{
+  margin-left: 10px;
+  display: flex;
+  justify-content: flex-start;
+}
